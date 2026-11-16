@@ -24,16 +24,15 @@ Each day brings one unsolved CodeChef practice problem, picked by difficulty rat
 <!-- SOLUTIONS:START -->
 | # | Date | Problem | Difficulty | Tags | Solution |
 |---|------|---------|------------|------|----------|
+| 1 | 2026-11-16 | [MAKEPERM · Make Permutation](https://www.codechef.com/problems/MAKEPERM) | 1200 | greedy, sorting | [Guide + Java](./MAKEPERM-make-permutation) |
 <!-- SOLUTIONS:END -->
-
-_The first solution lands on the next daily run._
 
 ## Folder layout
 
 ```
 {CODE}-{slug}/
-├── solution.java
-└── README.md
+├── Codechef.java (accepted Java solution)
+└── README.md     (problem, intuition, brute → optimal, dry run, complexity)
 ```
 
 ## The Sj family
