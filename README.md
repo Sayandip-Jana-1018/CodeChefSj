@@ -39,7 +39,7 @@ Each day brings one unsolved CodeChef practice problem, picked by difficulty rat
 
 | Platform | Repository |
 |----------|------------|
-| LeetCode | [LeetSj](https://github.com/Sayandip-Jana-1018/LeetSj) |
+| LeetCode | [LeetCodeSj](https://github.com/Sayandip-Jana-1018/LeetCodeSj) |
 | Codeforces | [CodeforcesSj](https://github.com/Sayandip-Jana-1018/CodeforcesSj) |
 | AtCoder | [AtCoderSj](https://github.com/Sayandip-Jana-1018/AtCoderSj) |
 | CodeChef | **CodeChefSj** (you are here) |
