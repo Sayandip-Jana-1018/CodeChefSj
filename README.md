@@ -25,6 +25,7 @@ Each day brings one unsolved CodeChef practice problem, picked by difficulty rat
 | # | Date | Problem | Difficulty | Tags | Solution |
 |---|------|---------|------------|------|----------|
 | 1 | 2026-11-16 | [MAKEPERM · Make Permutation](https://www.codechef.com/problems/MAKEPERM) | 1200 | greedy, sorting | [Guide + Java](./MAKEPERM-make-permutation) |
+| 2 | 2026-11-17 | [JUMPCOST · Jumping Cost](https://www.codechef.com/problems/JUMPCOST) | 1281 | greedy, math | [Guide + Java](./JUMPCOST-jumping-cost) |
 <!-- SOLUTIONS:END -->
 
 ## Folder layout
